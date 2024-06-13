@@ -1,6 +1,4 @@
-# GreenBoy的个人主页
-
-找到我：
+# 找到我
 
 * [gitee](https://gitee.com/GreenBoy0526)
 * [github](https://github.com/GreenBoy0526)
