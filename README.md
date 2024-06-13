@@ -1,7 +1,8 @@
 # GreenBoy的个人主页
 
-我的项目：
+找到我：
 
-* [拼图]( https://greenboy0526.gitee.io/love/puzzle/index.html )
-* 
-
+* [gitee](https://gitee.com/GreenBoy0526)
+* [github](https://github.com/GreenBoy0526)
+* [博客园](https://www.cnblogs.com/hmswt)
+* 公众号GreenBoy
